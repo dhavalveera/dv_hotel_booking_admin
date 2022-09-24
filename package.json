@@ -1,0 +1,45 @@
+{
+  "name": "dv_hotel_booking_admin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/css": "^11.10.0",
+    "@emotion/react": "^11.10.4",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.6",
+    "@mui/lab": "^5.0.0-alpha.100",
+    "@mui/material": "^5.10.6",
+    "@mui/system": "^5.10.6",
+    "@reduxjs/toolkit": "^1.8.5",
+    "axios": "^0.27.2",
+    "formik": "^2.2.9",
+    "moment": "^2.29.4",
+    "next": "12.3.1",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.0",
+    "react-redux": "^8.0.4",
+    "redux-persist": "^6.0.0",
+    "sharp": "^0.31.0",
+    "simplebar-react": "^2.4.1",
+    "socket.io-client": "^4.5.2",
+    "styled-components": "^5.3.5",
+    "stylis-plugin-rtl": "^2.1.1",
+    "webpack": "^5.74.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^2.0.7",
+    "eslint": "8.24.0",
+    "eslint-config-next": "12.3.1"
+  }
+}
